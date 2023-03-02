@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi!
+
+- 👋 I'm Simon,
+- 🇬🇧 From Teddington, UK,
+- 🇺🇸 Live in San Carlos, California, USA.
+- 🦈 Student of sharks from a young age,
+- 🤓 Been coding in R since 2012, focusing on
+- 💨🌲💻 Boosted Regression Tree machine learning, for 
+- 🏎 Movement analysis of 🦈 and ὏ (Atlantic bluefin tuna).
+- 🤖 Excited about automation so we can do more interesting work and less dull stuff
+- I have enjoy various ⚽🏂🏌🏊🏄🤿🏋🏼‍♂️🚴🏼‍♂️ sports and 🎮👨🏼‍🍳😸👷🏼‍♂️🌱🌶🫖🏕🏟🛫 hobbies like a typical human person.
+- 💬📫 More details on [my website](https://www.simondedman.com).
 
 <!--
 **SimonDedman/SimonDedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
