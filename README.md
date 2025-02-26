@@ -8,7 +8,7 @@
 - 💨🌲💻 Boosted Regression Tree machine learning, for 
 - 🏎 Movement analysis of 🦈 and 🐟 (Atlantic bluefin tuna).
 - 🤖 Excited about automation so we can do more interesting work and less dull stuff
-- I have enjoy various ⚽🏂🏌🏊🏄🤿🏋🏼‍♂️🚴🏼‍♂️ sports and 🎮👨🏼‍🍳😸👷🏼‍♂️🌱🌶🫖🏕🏟🛫 hobbies like a typical human person.
+- I enjoy various ⚽🏂🏌🏊🏄🤿🏋🏼‍♂️🚴🏼‍♂️ sports and 🎮👨🏼‍🍳😸👷🏼‍♂️🌱🌶🫖🏕🏟🛫 hobbies like a typical human person.
 - 💬📫 More details on [my website](http://www.simondedman.com)
 
 <!--
